@@ -28,6 +28,7 @@ Alert alt=driver.switchTo().alert();
 //get the text which is present on alert popup
 String text=alt.getText();
 System.out.println(text);
+		System.out.println("hello");
 	}
 
 }
